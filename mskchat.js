@@ -5,6 +5,12 @@ $(`<img src="https://mskchat.com/sico/z1e6s0eddh10.gif" style="width:100%;margin
 `).insertBefore('.nav-tabs');
 $(`<font size="4" color="#ffffff"><marquee direction="right" width="100%" height="20" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" style="height: 20px; width: 100%;background-color:#A17082;">نهنئكم بحلول شهر رمضان المبارك , اعاده الله علينا وعليكم وعلى الامه الاسلاميه بالخير واليمن والبركات , وتقبل الله صيامكم وقيامكم , الادارهـ 🌙 
 </marquee></font>`).insertBefore('.nav-tabs'); 
+$( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 2px; width: 25px;">');$('a[href="https://jawalhost.com/"]').removeAttr('href');
+$('.nav-tabs').addClass('fl').css('width','100%');
+$("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
+$("[data-target=#wall]").attr('title','يمنع السوالف فالحائط')
+$(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
+$('.nav-tabs').addClass('fl').css('width','100%');
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 $(`
