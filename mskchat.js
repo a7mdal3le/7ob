@@ -1,16 +1,20 @@
 $(`<img src="https://mskchat.com/sico/z1e6s0eddh10.gif" style="width:100%;margin-top: 0px;margin-bottom: 0px;" >
-<a href="https://8llb.net"style="border-radius: 2px 10px 11px 11px;width:100px;margin:2px;" class="fl mini   fa fa-star btn btn-primary"> شات قلب </a>
-<a href="/sico/z1d6o8k03k10.png"style="border-radius: 2px 10px 11px 11px;width:100px;margin:2px;" class="fl mini  fa fa-graduation-cap btn btn-primary"> القوانين </a>
-<div style="border-radius: 2px 10px 11px 11px;width:100px;margin:2px;" class="fa mini fa-phone btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> ادارة الموقع </div><div class="collapse" id="collapseExample"><center><div class="well"> </BR>ادارة الموقع </BR><font color="#FF0000"> جـيـكــر </font> </BR>_________ </BR><font color="#0000FF"> للشكاوي والاشتراكات </font> </BR><img src="/sico/z1d5qt6di810.png"> +966570036126  </BR><img src="/sico/z1d5qti26310.png">  jeeekr </BR>
+<a href="https://8llb.net"style="border-radius: 2px 10px 11px 11px;width:90px;margin:2px;" class="fl mini   fa fa-star btn btn-primary"> شات قلب </a>
+<a href="/sico/z1d6o8k03k10.png"style="border-radius: 2px 10px 11px 11px;width:90px;margin:2px;" class="fl mini  fa fa-graduation-cap btn btn-primary"> القوانين </a>
+<a href="http://www.mediafire.com/file/kus90ffkl9zclul/%25D8%25B4%25D8%25A7%25D8%25AA_%25D8%25A7%25D9%2584%25D8%25AD%25D8%25A8.apk/file"style="border-radius: 2px 10px 11px 11px;width:90px;margin:2px;" class="fl mini   fa fa-heartbeat btn btn-primary"> تطبيق الشات </a>
+<div style="border-radius: 2px 10px 11px 11px;width:90px;margin:2px;" class="fa mini fa-phone btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> ادارة الموقع </div><div class="collapse" id="collapseExample"><center><div class="well"> </BR>ادارة الموقع </BR><font color="#FF0000"> جـيـكــر </font> </BR>_________ </BR><font color="#0000FF"> للشكاوي والاشتراكات </font> </BR><img src="/sico/z1d5qt6di810.png"> +966570036126  </BR><img src="/sico/z1d5qti26310.png">  jeeekr </BR>
 `).insertBefore('.nav-tabs');
 $(`<font size="4" color="#ffffff"><marquee direction="right" width="100%" height="20" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5" style="height: 20px; width: 100%;background-color:#A17082;">نهنئكم بحلول شهر رمضان المبارك , اعاده الله علينا وعليكم وعلى الامه الاسلاميه بالخير واليمن والبركات , وتقبل الله صيامكم وقيامكم , الادارهـ 🌙 
 </marquee></font>`).insertBefore('.nav-tabs'); 
 $( "a.label.label-primary.fl > img.fl" ).replaceWith('<img src="" class="fl" style="margin-right: 2px; width: 25px;">');$('a[href="https://jawalhost.com/"]').removeAttr('href');
 $('.nav-tabs').addClass('fl').css('width','100%');
 $("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
-$("[data-target=#wall]").attr('title','يمنع السوالف فالحائط')
+$("[data-target=#wall]").attr('title','♥ مسـاحه حـرهـ لإبداعـاتكم ♥')
 $(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
 $('.nav-tabs').addClass('fl').css('width','100%');
+$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لوحة تحكم شات الحب ")
+$ ( ` <center> <div style =" width: 100٪؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> ♥ منورين شات الحب ♥ </ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' ); 
+$(`<div style=" color: #FC1717;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', Fontawesome"> الاعلانات/ للمسابقات فقط </div>`).insertBefore('span.fl.fa.fa-send');
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 $(`
