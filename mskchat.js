@@ -13,7 +13,7 @@ $("[data-target=#wall]").attr('title','♥ مسـاحه حـرهـ لإبداع�
 $(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
 $('.nav-tabs').addClass('fl').css('width','100%');
 $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لوحة تحكم شات الحب ")
-$ ( ` <center> <div style =" width: 100٪؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> ♥ منورين شات الحب ♥ </ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' ); 
+$ ( ` <center> <div style =" width: 100٪؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> منورين شات الحب </ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' ); 
 $(`<div style=" color: #FC1717;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', Fontawesome"> الاعلانات/ للمسابقات فقط </div>`).insertBefore('span.fl.fa.fa-send');
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
