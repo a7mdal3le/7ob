@@ -15,5 +15,8 @@ $(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(`<div style=" color: #FC1717;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', Fontawesome"> الاعلانات/ للمسابقات فقط </div>`).insertBefore('span.fl.fa.fa-send');
 $('.stopic').attr('readonly',true).css('background-color','#eeeeee')
+var _0x3d29=["\x77\x69\x64\x74\x68","\x30\x70\x78","\x63\x73\x73","\x2E\x66\x6C\x2E\x75\x73\x74\x61\x74"];$(_0x3d29[3])[_0x3d29[2]](_0x3d29[0],_0x3d29[1])
+
 $("button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
-$(".label-primary").css("border-radius","24px 24px 24px 24px")var _0x3d29=["\x77\x69\x64\x74\x68","\x30\x70\x78","\x63\x73\x73","\x2E\x66\x6C\x2E\x75\x73\x74\x61\x74"];$(_0x3d29[3])[_0x3d29[2]](_0x3d29[0],_0x3d29[1])
+
+$(".label-primary").css("border-radius","24px 24px 24px 24px")
